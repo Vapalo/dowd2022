@@ -1,0 +1,4 @@
+CONTAINER ID   IMAGE     COMMAND                  CREATED              STATUS                      PORTS     NAMES
+5abf3589387f   alpine    "/bin/sh"                About a minute ago   Up 59 seconds                         exciting_elbakyan
+f7d2ca34375b   httpd     "httpd-foreground"       5 minutes ago        Exited (0) 41 seconds ago             peaceful_taussig
+1b2f40036482   nginx     "/docker-entrypoint.…"   5 minutes ago        Exited (0) 42 seconds ago             condescending_brattain
